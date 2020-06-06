@@ -1,0 +1,9 @@
+vertex: 0 -> BC: 3.0
+vertex: 1 -> BC: 0.0
+vertex: 2 -> BC: 3.0
+vertex: 3 -> BC: 15.0
+vertex: 4 -> BC: 6.0
+vertex: 5 -> BC: 6.0
+vertex: 6 -> BC: 7.0
+vertex: 7 -> BC: 0.0
+vertex: 8 -> BC: 0.0
